@@ -581,36 +581,6 @@ Possible future enhancements include:
 | `npm run lint` | Run TypeScript checks |
 | `npm run clean` | Remove build files |
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Make your changes
-4. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-5. Push the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-6. Create a Pull Request
-
----
-
 ## 📜 License
 
 This project is available for educational and development purposes.
@@ -624,3 +594,6 @@ This project is available for educational and development purposes.
 A platform for planning, organizing, and tracking your software engineering learning journey.
 
 > Learn → Practice → Track → Improve → Become a Better Engineer 🚀
+
+<img width="1366" height="768" alt="Screenshot 2026-09-15 124714" src="https://github.com/user-attachments/assets/73586bd0-3693-4488-8965-9beafe2f116c" />
+<img width="1366" height="768" alt="Screenshot 2026-09-15 124729" src="https://github.com/user-attachments/assets/c7c3aeee-ac20-4ce0-baaf-f394e6d385d4" />
